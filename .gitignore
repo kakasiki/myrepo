@@ -1,0 +1,9 @@
+# 忽略 tmp 临时目录
+tmp/
+
+# 常见忽略项
+*.log
+*.tmp
+__pycache__/
+.venv/
+node_modules/
